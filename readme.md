@@ -67,7 +67,8 @@ Any contributions you make are greatly appreciated. To contribute:
 5. Open a Pull Request
 
 ## Roadmap 
-- [ ] Add license information
+- [x] Add license information
+- [ ] Find out how to get a changelog with semver 
 - [ ] Review contribution instructions for this repo
 - [ ] Review versioning logic for new published features
 - [ ] Review if init command should just be replaced with onboard-repo without any command
