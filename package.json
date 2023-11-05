@@ -1,10 +1,10 @@
 {
-  "name": "onboard-devs-cli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "onboard-repo",
+  "version": "0.0.1",
+  "description": "A system to create necessary files for your repo based on ejs templates",
   "main": "index.js",
   "bin": {
-    "onboard": "./index.js"
+    "onboard-repo": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

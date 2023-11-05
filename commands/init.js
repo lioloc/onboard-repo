@@ -1,5 +1,3 @@
-// commands/init.js
-
 const yaml = require('yamljs');
 const fs = require('fs');
 const mkdirp = require('mkdirp');
