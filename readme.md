@@ -67,6 +67,7 @@ Any contributions you make are greatly appreciated. To contribute:
 5. Open a Pull Request
 
 ## Roadmap 
+- [ ] Add license information
 - [ ] Review contribution instructions for this repo
 - [ ] Review versioning logic for new published features
 - [ ] Review if init command should just be replaced with onboard-repo without any command
