@@ -69,7 +69,8 @@ Any contributions you make are greatly appreciated. To contribute:
 ## Roadmap 
 - [x] Add license information
 - [ ] Find out how to get a changelog with semver 
-- [ ] Review contribution instructions for this repo
 - [ ] Review versioning logic for new published features
+- [ ] Add a readme on the generated .onboard folder
+- [ ] Review contribution instructions for this repo
 - [ ] Review if init command should just be replaced with onboard-repo without any command
 - [ ] On init command, prompt user to select files, selected files are automatically turned into ejs files and added to the config.yaml
