@@ -72,5 +72,6 @@ Any contributions you make are greatly appreciated. To contribute:
 - [ ] Review versioning logic for new published features
 - [ ] Add a readme on the generated .onboard folder
 - [ ] Review contribution instructions for this repo
+- [ ] Add a configuration option with files depending on the OS
 - [ ] Review if init command should just be replaced with onboard-repo without any command
 - [ ] On init command, prompt user to select files, selected files are automatically turned into ejs files and added to the config.yaml
